@@ -4,7 +4,8 @@
 
 Welcome to the Expense Tracker project! This application is designed to simplify financial management and help you take control of your expenses.
 
-![Expense Tracker](expense-tracker-screenshot.png)
+(![Expense Tracker](<output image.png>))
+
 
 ## Installation
 
